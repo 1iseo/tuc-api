@@ -3,8 +3,7 @@
 FastAPI untuk Campus QA Bot yang menggunakan model JointBERT untuk intent classification dan slot filling.
 
 ## Deployment Folder
-
-Folder `deployment/` berisi output dari training model yang dilakukan di Google Colab:
+Untuk running, butuh folder `deployment/` yang berisi output dari training model yang dilakukan di Google Colab:
 https://colab.research.google.com/drive/12v6kJqd92MMERPXz9pEVFzZ9f22AO1nc
 
 Folder ini mencakup:
