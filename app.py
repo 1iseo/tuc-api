@@ -7,16 +7,12 @@ from pydantic import BaseModel
 import json
 import os
 
-# ==============================================================================
-# 1. PASTE YOUR JOINTBERT CLASS HERE
-# ==============================================================================
 class JointBERT(nn.Module):
     def __init__(self, model_name, num_intents, num_slots, dropout_rate=0.1):
         super().__init__()
-        # 1. Load the configuration (tiny download, <1KB)
+
         self.config = AutoConfig.from_pretrained(model_name)
         
-        # 2. CHANGED: Create the model skeleton from config only (No heavy download!)
         self.bert = AutoModel.from_config(self.config)
         
         self.intent_classifier = nn.Sequential(
@@ -38,12 +34,9 @@ class JointBERT(nn.Module):
 
 print("JointBERT model class defined!")
 
-# ==============================================================================
 # 2. SETUP APP & LOAD MODEL
-# ==============================================================================
 app = FastAPI(title="Campus QA Bot API")
 
-# Global variables to hold model artifacts
 model = None
 tokenizer = None
 intent2idx = {}
@@ -93,12 +86,8 @@ def load_artifacts():
     model.eval()
     print("Model loaded successfully!")
 
-# Load artifacts on startup
 load_artifacts()
 
-# ==============================================================================
-# 3. DEFINE API ENDPOINTS
-# ==============================================================================
 class QueryRequest(BaseModel):
     text: str
 
