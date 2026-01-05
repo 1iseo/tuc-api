@@ -1,0 +1,101 @@
+get_tugas_untuk_mata_kuliah,get_jadwal,get_ruangan,get_info_dosen
+Tugas [minggu ini](WAKTU) apa aja?,Jadwal [hari selasa](WAKTU),{{MATKUL}} di ruangan apa?,Siapa dosen mata kuliah {{MATKUL}}?
+List tugas {{MATKUL}},Apa aja matkul [hari rabu](WAKTU),Info room {{MATKUL}},Kode dosen Pak [Ipam](NAMA_DOSEN)
+Ada tugas ga [hari ini](WAKTU)?,Jadwal [hari ini] (WAKTU),Ruang berapa pelajaran {{MATKUL}}?,No.hp bu [yohani](NAMA_DOSEN)
+Tugas {{MATKUL}} dikumpulin kapan?,Matkul pertama [hari senin](WAKTU) apa?,Dimana tempat kuliah {{MATKUL}}?,Minta kontak dosen {{MATKUL}}
+Ada tagihan tugas ga buat [minggu depan](WAKTU)?,{{MATKUL}} jam brp selesai?,Cek ruangan untuk {{MATKUL}},Sp nama dosen {{MATKUL}}?
+Spill tugas {{MATKUL}} [hari ini](WAKTU),Kapan jadwal {{MATKUL}}?,Info lokasi kelas {{MATKUL}},
+Masih ada tugas yg belum kelar ga buat [besok](WAKTU)?,Cek jam kuliah [besok pagi](WAKTU),,
+Tolong list PR {{MATKUL}},Durasi kelas {{MATKUL}} sampai jam berapa?,,
+Rekap tugas {{MATKUL}},,,
+Apa PR untuk [lusa](WAKTU)?,,,
+"Lupa tugas {{MATKUL}}, tolong ingatkan",,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Apakah ada Tugas [minggu ini](WAKTU)?,,Ruangan untuk kuliah {{MATKUL}} di mana?,Kontak dosen {{MATKUL}} ada?
+Adakah Tugas [minggu ini](WAKTU) apa aja?,Saya ada kelas apa besok?,Lokasi kelas {{MATKUL}} sekarang ada di ruangan berapa?,Email dosen {{MATKUL}} berapa?
+Apakah saya memiliki tugas [minggu ini](WAKTU) ?,Jadwal kuliah hari ini apa aja?,Kelas {{MATKUL}} saya lantai berapa?,Siapa dosen pengampu untuk mata kuliah {{MATKUL}}?
+"Bagaimana jika kamu cek, apakah saya meiliki Tugas [minggu ini](WAKTU) apa aja?",Mata kuliah apa aja yang masuk pada hari [hari senin](WAKTU)?,Ruangan kuliah untuk {{MATKUL}} kelas berapa?,Siapa dosen kelas saya untuk {{MATKUL}}?
+Tugas apa saja yang saya miliki [minggu ini](WAKTU) ?,tunjukan jadwal [hari selasa](WAKTU),Di mana saya harus masuk untuk kelas {{MATKUL}}?,Kontak Bu [NAMA_DOSEN]
+Tugas apa saja yang memiliki deadline [minggu ini](WAKTU) ?,Bagaimana jadwal kuliah minggu ini (WAKTU)?,Kelas {{MATKUL}} diadakan di ruangan apa?,Nomor telepon Pak [NAMA_DOSEN]
+Minta List tugas {{MATKUL}} dong,Jadwal kelas saya  [hari jumat]apa?,Cek ruangan [hari rabu] mata kuliah {{MATKUL}}.,Dosen mata kuliah {{MATKUL}} adalah siapa?
+List tugas minggu ini {{MATKUL}},Apakah saya memiliki kelas di [hari selasa](WAKTU)?,Boleh cek ruang kuliah {{MATKUL}}?,Informasi tentang dosen [NAMA_DOSEN].
+Tugas {{MATKUL}} yang aktif saat ini apa aja?, cek jadwal saya di [hari kamis](WAKTU),Ruang kuliah {{MATKUL}} hari ini ruangan berapa?,Kode dosen Pak [NAMA_DOSEN].
+Apa ada tugas yang harus dikumpulin besok untuk {{MATKUL}}?,Kelas apa yang berlangsung sekarang (WAKTU)?,Saya harus ke ruangan mana untuk {{MATKUL}}?,Dosen yang mengajar {{MATKUL}} semester ini.
+Deadline tugas {{MATKUL}} minggu depan kapan?,Tolong tampilkan jadwal hari ini (WAKTU).,Saya kuliah {{MATKUL}} di kelas mana?,Dosen mata kuliah {{MATKUL}} adalah siapa?
+Tugas {{MATKUL}} yang harus dikumpulin hari ini (WAKTU) apa?,Jadwal kelas saya  [hari senin]apa?,Lokasi kelas {{MATKUL}} sekarang ada di ruangan berapa?,Siapa yang mengampu kuliah {{MATKUL}} semester ini?
+Ada pengumpulan tugas {{MATKUL}} besok?,Saya pengen lihat jadwal di [hari rabu](WAKTU).,Ruang kelas untuk jadwal [WAKTU]?,Dosen pengajar untuk {{MATKUL}} itu siapa namanya?
+Tugas minggu ini (WAKTU) untuk {{MATKUL}} apa aja ya?,Jadwal kuliah lengkap hari ini (WAKTU) dong.,{{MATKUL}} di gedung dan ruangan apa?,Nomor HP dosen [NAMA_DOSEN].
+Ada tugas {{MATKUL}} untuk hari ini?,Jadwal kuliahku [WAKTU],Nomor ruangan untuk mata kuliah {{MATKUL}}.,Info kontak [NAMA_DOSEN].
+Tolong list tugas {{MATKUL}} dong.,Mata kuliah apa yang harus aku hadiri [hari rabu]?,Penempatan kelas {{MATKUL}} itu di mana?,Nama lengkap dosen [NAMA_DOSEN].
+Tolong tampilkan tugas aktif {{MATKUL}}.,Jadwal kuliahku selama seminggu.,Ruangannya {{MATKUL}} hari ini di mana?,Nama dosen untuk mata kuliah {{MATKUL}} siapa?
+Cek tugas {{MATKUL}} hari ini (WAKTU).,Cek jadwal kuliahku [minggu depan].,Cek ruangan [WAKTU] mata kuliah {{MATKUL}}.,Kontak dosen {{MATKUL}} ada?
+Berikan daftar tugas terbaru untuk {{MATKUL}}.,Jam berapa aku harus mulai kuliah [hari senin]?,Ruangan untuk kelas {{MATKUL}} apa?,Info singkat tentang dosen {{MATKUL}} dong.
+Tugas apa yang masih pending untuk {{MATKUL}}?,Aku ada kelas apa aja [WAKTU]?,Di mana tempat kuliah {{MATKUL}} berlangsung?,Boleh minta nomor HP dari pengajar {{MATKUL}}?
+Ada update tugas terbaru untuk {{MATKUL}} nggak?,Hari {{WAKTU}} saya ada kuliah apa saja?,Di ruangan mana kelas {{MATKUL}} dilaksanakan?,Siapa dosen yang mengajar mata kuliah {{MATKUL}}?
+Tugas apa yang wajib saya selesaikan sebelum {{WAKTU}}?,Kegiatan kuliah saya untuk {{WAKTU}} seperti apa?,Lokasi kuliah {{MATKUL}} hari ini ada di mana?,Berapa kode dosen untuk {{NAMA_DOSEN}}?
+Apakah ada pengumuman tugas baru di kelas {{MATKUL}}?,Ada mata kuliah yang berlangsung pada {{WAKTU}}?,Gedung mana yang digunakan untuk mata kuliah {{MATKUL}}?,Siapa dosen pengampu resmi untuk kelas {{MATKUL}}?
+Tolong cek apakah ada PR dari {{MATKUL}} untuk hari ini.,Tolong tampilkan jadwal kuliah di hari {{WAKTU}}.,Kelas {{MATKUL}} berada di lantai berapa?,Mata kuliah apa saja yang diajar oleh {{NAMA_DOSEN}}?
+Ada tugas apa saja untuk {{MATKUL}} minggu ini?,Apakah ada kelas pagi atau siang pada {{WAKTU}}?,Bisa cek ruang kuliah untuk {{MATKUL}}?,Dosen mana yang mengajar {{MATKUL}} hari ini?
+Apakah ada tugas tambahan dari kelas {{MATKUL}} untuk {{WAKTU}}?,Saya harus hadir di kelas apa pada {{WAKTU}}?,Ruang {{MATKUL}} dipindahkan ke mana?,Apakah {{NAMA_DOSEN}} masih mengajar {{MATKUL}} semester ini?
+Daftar tugas aktif untuk mata kuliah {{MATKUL}} dong.,Urutan kuliah pada {{WAKTU}} seperti apa?,Tempat perkuliahan {{MATKUL}} ada di ruang nomor berapa?,Siapa dosen pengganti untuk mata kuliah {{MATKUL}}?
+Apakah saya masih punya tugas yang belum dikumpulkan untuk {{MATKUL}}?,Ada perubahan jadwal untuk {{WAKTU}}?,Saya harus ke ruangan mana untuk mengikuti {{MATKUL}}?,Tolong berikan informasi lengkap tentang dosen {{MATKUL}}.
+Hari {{WAKTU}} ada pengumpulan tugas matkul apa saja?,Adakah matkul yang dibatalkan pada {{WAKTU}}?,Pertemuan berikutnya untuk {{MATKUL}} ada di ruangan mana?,Dosen praktikum untuk {{MATKUL}} itu siapa?
+Apakah tugas {{MATKUL}} sudah keluar untuk pertemuan berikutnya?,Semua mata kuliah yang berlangsung hari {{WAKTU}} apa saja?,Lab apa yang digunakan untuk praktikum {{MATKUL}}?,Siapa pengajar sesi pagi mata kuliah {{MATKUL}}?
+Tolong tampilkan semua deadline tugas {{MATKUL}}.,Saya mulai kuliah jam berapa di hari {{WAKTU}}?,Apakah ruang kelas {{MATKUL}} sudah berubah?,Siapa pengajar utama kelas {{MATKUL}}?
+Tugas apa yang harus saya prioritaskan untuk {{MATKUL}}?,Apakah jadwal saya padat pada {{WAKTU}}?,Di mana lokasi kelas pengganti untuk {{MATKUL}}?,Bisa tampilkan profil dosen {{NAMA_DOSEN}}?
+Ada pekerjaan kelompok {{MATKUL}} minggu ini?,Matkul pertama yang dimulai pada {{WAKTU}} apa?,Ruang ujian mata kuliah {{MATKUL}} itu di mana?,Kode pengajar untuk mata kuliah {{MATKUL}} itu apa?
+Tugas mana yang paling dekat jatuh temponya untuk {{MATKUL}}?,Aktivitas akademik apa yang ada di {{WAKTU}}?,Ruangan resmi untuk kelas {{MATKUL}} apa?,Siapa koordinator pengajar untuk {{MATKUL}}?
+Ada PR mendadak dari {{MATKUL}} menjelang {{WAKTU}}?,Tolong cek apakah saya ada kelas malam pada {{WAKTU}}.,Tempat konsultasi untuk {{MATKUL}} ruang apa?,Apakah {{NAMA_DOSEN}} menjadi dosen tetap di {{MATKUL}}?
+Apakah dosen memberikan tugas baru setelah kelas {{MATKUL}} tadi?,Saya ingin lihat jadwal lengkap untuk {{WAKTU}}.,Tolong cek lokasi kelas {{MATKUL}} sebelum mulai.,Siapa dosen yang bertanggung jawab atas kelas besar {{MATKUL}}?
+Tugas apa yang harus saya kerjakan untuk {{MATKUL}} sebelum {{WAKTU}}?,Adakah sesi praktikum yang dijadwalkan pada {{WAKTU}}?,Di mana ruang kuliah untuk sesi malam {{MATKUL}}?,Siapa dosen yang memberikan materi untuk {{MATKUL}} minggu ini?
+Apakah saya punya tugas besar untuk {{MATKUL}} minggu ini?,Hari {{WAKTU}} apakah ada kelas tambahan?,{{MATKUL}} memakai ruangan di gedung mana?,Dosen mana yang membimbing praktikum {{MATKUL}}?
+Ada tugas presentasi untuk mata kuliah {{MATKUL}}?,Besok {{WAKTU}} saya ada kuliah atau tidak?,Ruang pertemuan untuk kelas {{MATKUL}} ada di mana?,Siapa pengajar pengganti untuk sesi {{MATKUL}} hari ini?
+Cek apakah ada kuis atau tugas kecil dari {{MATKUL}} untuk hari ini.,Jadwal apa saja yang harus saya hadiri untuk {{WAKTU}}?,Apakah {{MATKUL}} diadakan di auditorium atau ruang biasa?,{{NAMA_DOSEN}} mengajar mata kuliah apa saja tahun ini?
+Apakah ada tugas baru dari {{MATKUL}} untuk hari ini?,Jadwal {{WAKTU}} apa aja?,{{MATKUL}} di ruangan apa,dosen mata kuliah {{MATKUL}}
+Tugas {{WAKTU}} apa aja,Kelas apa yang harus saya masuk {{WAKTU}}?,ruangan mata kuliah {{MATKUL}},kode dosen pak {{NAMA_DOSEN}}
+Ada tugas ga {{WAKTU}}?,Ada kelas apa {{WAKTU}}?,ruang perkuliahan {{MATKUL}},siapa yang ngajar {{MATKUL}}
+List tugas {{MATKUL}} dong,Apakah ada kuliah pagi {{WAKTU}}?,kelas {{MATKUL}} ada di mana,dosen pengampu {{MATKUL}}
+Apa saya punya tugas untuk {{MATKUL}},Apa aja matkul {{WAKTU}}?,saya harus masuk ruangan mana untuk {{MATKUL}},dosen untuk kelas {{MATKUL}}
+Tugas {{MATKUL}} untuk {{WAKTU}} apa aja?,Daftar matkul hari {{WAKTU}} apa aja?,lokasi kelas {{MATKUL}},bu {{NAMA_DOSEN}} ngajar matkul apa
+Apa ada tugas baru di {{MATKUL}}?,Besok saya ada jadwal apa?,kelas {{MATKUL}} dapet ruangan apa,dosen yang mengajar saya di {{MATKUL}}
+Ada deadline tugas {{MATKUL}} minggu ini?,Matkul yang berlangsung {{WAKTU}} apa?,ruang kelas {{MATKUL}},dosen untuk {{MATKUL}} itu siapa
+Kasih tau saya tugas {{MATKUL}} yang belum dikerjakan.,Jadwal kuliah hari {{WAKTU}} apa?,ruangan untuk kuliah {{MATKUL}} hari ini,info pengajar {{MATKUL}}
+Tugas yang harus dikumpulkan {{WAKTU}} apa?,Jadwal lengkap untuk {{WAKTU}},belajar {{MATKUL}} di kelas berapa,siapa pengajar mata kuliah {{MATKUL}}
+Ada tugas yang jatuh tempo {{WAKTU}}?,Kelas apa yang saya ambil {{WAKTU}}?,kelas {{MATKUL}} bertempat di mana,dosen matkul {{MATKUL}}
+Apa saya dapat tugas dari {{MATKUL}}?,Apakah {{WAKTU}} ada kelas siang?,tempat kuliah {{MATKUL}},info dosen buat mata kuliah {{MATKUL}}
+Tugas kuliah yang harus saya kerjakan {{WAKTU}} apa aja,Saya ada kuliah jam berapa {{WAKTU}}?,ruang belajar untuk {{MATKUL}},kode dosen {{NAMA_DOSEN}}
+Apakah {{MATKUL}} ngasih tugas minggu ini,jadwal kuliah hari {{WAKTU}},ruangan untuk {{MATKUL}},Siapa dosen kelas pagi untuk mata kuliah {{MATKUL}}
+Tugas apa yang dikasih dosen {{MATKUL}}?,Ada kelas ga {{WAKTU}}?,ruang pertemuan {{MATKUL}},{{MATKUL}} dosennya siapa
+Ada tugas mendadak buat {{MATKUL}}?,ada kelas siang {{WAKTU}},lokasi matkul {{MATKUL}},Kode dosen {{NAMA_DOSEN}} itu apa sih
+Apa ada tugas yang harus dikumpulkan hari {{WAKTU}},Hari {{WAKTU}} belajar apa aja?,ruangan kuliah {{MATKUL}},{{MATKUL}} itu dosennya siapa ya
+Tugas deadline {{WAKTU}} dari {{MATKUL}} apa aja?,daftar matkul hari {{WAKTU}} apa aja?,{{MATKUL}} lantai berapa,{{NAMA_DOSEN}} ngajar matkul apa aja
+Tugas terbaru dari {{MATKUL}} apa ya?,Jadwal untuk {{WAKTU}} dong.,lokasi ruang kuliah untuk {{MATKUL}},Nama dosen buat {{MATKUL}} apa
+Ada PR dari mata kuliah {{MATKUL}}?,jadwal lengkap {{WAKTU}},{{MATKUL}} lantai berapa?,Siapa pengajar buat kelas {{MATKUL}}
+Tugas {{MATKUL}} untuk [hari ini] belum saya lihat,Jadwal kuliah [hari ini] untuk semua matkul,Ruangan kelas {{MATKUL}} berada di gedung mana,Dosen pengampu {{MATKUL}} adalah [nama dosen]
+List tugas {{MATKUL}} yang harus selesai [minggu ini],{{MATKUL}} berlangsung di [hari Kamis],Lokasi {{MATKUL}} hari ini di ruang lantai 3,[nama dosen] mengajar mata kuliah apa saja
+Deadline tugas {{MATKUL}} jatuh pada [besok],Urutan matkul yang harus diikuti [hari Senin],{{MATKUL}} akan pindah ruangan untuk pertemuan berikutnya,Info kode dosen [nama dosen] adalah [kode dosen]
+Semua tugas {{MATKUL}} yang belum saya kerjakan,Jadwal lengkap [minggu depan],Ruangan praktikum {{MATKUL}} ada di lab komputer,Profil dosen pengajar {{MATKUL}}
+Ada pengumpulan tugas {{MATKUL}} di [akhir pekan],Kelas {{MATKUL}} dimulai pada [jam 9 pagi],Tempat berlangsungnya {{MATKUL}} untuk sesi pagi,[nama dosen] merupakan dosen utama {{MATKUL}}
+Rekap tugas untuk {{MATKUL}},Semua jadwal praktikum [hari Jumat],Cek lokasi kelas {{MATKUL}} sebelum mulai,Kontak dan kode dosen [nama dosen] dicatat sebagai [kode dosen]
+Tugas individu {{MATKUL}} yang diberikan [kemarin],Kegiatan kuliah [besok] cukup padat,Ruangan {{MATKUL}} sudah berubah sejak minggu lalu,Dosen pengganti {{MATKUL}} adalah [nama dosen]
+Cek tugas praktikum {{MATKUL}} untuk [minggu depan],Jadwal ulang kelas {{MATKUL}} di [hari Rabu],Detail ruangan {{MATKUL}} untuk kelas hybrid,Siapa koordinator {{MATKUL}} yaitu [nama dosen]
+PR {{MATKUL}} yang harus dikumpulkan sebelum [tanggal 12],Mata kuliah apa saja diadakan [sore ini],Pertemuan {{MATKUL}} diadakan di auditorium,[nama dosen] dengan kode [kode dosen] mengajar {{MATKUL}}
+Daftar tugas {{MATKUL}} yang diumumkan setelah kelas [hari Senin],Jadwal revisi kelas untuk [minggu ini],{{MATKUL}} sesi malam ada di lantai 2,Riwayat dosen yang pernah mengampu {{MATKUL}}
+Tugas tambahan {{MATKUL}} minggu ini sudah keluar,{{MATKUL}} dijadwalkan lagi pada [hari Selasa],Ruang kuliah {{MATKUL}} berada di gedung timur,Dosen praktikum {{MATKUL}} dijalankan oleh [nama dosen]
+Beban tugas {{MATKUL}} cukup banyak di [minggu ini],Jadwal pagi untuk [hari Kamis],Tempat ujian {{MATKUL}} telah diumumkan,Verifikasi apakah [nama dosen] masih mengampu {{MATKUL}}
+Cek apakah ada tugas baru untuk {{MATKUL}},Tidak ada kelas pada [akhir pekan],Ruang kelas cadangan untuk {{MATKUL}},Mata kuliah yang diajar oleh [nama dosen]
+Tugas {{MATKUL}} yang harus dipresentasikan di kelas,Jadwal shifting kelas {{MATKUL}} untuk [hari ini],Ruangan tambahan {{MATKUL}} tersedia untuk konsultasi,[nama dosen] bertanggung jawab atas kelas besar {{MATKUL}}
+Ada tugas kuis {{MATKUL}} untuk [hari ini],Update jadwal perkuliahan [bulan depan],Tempat mata kuliah {{MATKUL}} pada kelas pengganti,Kode dosen {{MATKUL}} terdaftar sebagai [kode dosen]
+Semua tugas {{MATKUL}} yang diberikan semester ini,Sesi tambahan {{MATKUL}} akan ada di [hari Sabtu],Ruang rapat digunakan untuk {{MATKUL}} minggu ini,Asisten dosen untuk {{MATKUL}} adalah [nama dosen]
+Detail tugas {{MATKUL}} bab terbaru,Jadwal kuliah malam pada [hari Jumat],Lokasi {{MATKUL}} bisa berubah sewaktu-waktu,Penjadwalan konsultasi dengan [nama dosen] untuk {{MATKUL}}
+Pengumpulan tugas {{MATKUL}} mendekati deadline [malam ini],Semua kelas dimulai lebih siang pada [besok],Cek ruangan {{MATKUL}} melalui papan pengumuman,Apakah [nama dosen] merupakan dosen tetap {{MATKUL}}
+Tugas {{MATKUL}} sebelum [besok pagi],Jadwal ujian kecil {{MATKUL}} di [senin depan],{{MATKUL}} dialihkan ke ruangan yang lebih besar,Informasi lengkap dosen {{MATKUL}} termasuk kode [kode dosen]
+Tugas kelompok {{MATKUL}} dengan deadline [hari Jumat],Rekap jadwal kelas sepanjang [minggu ini],Ruang {{MATKUL}} sedang dalam perbaikan,Dosen pembimbing {{MATKUL}} pada semester ini adalah [nama dosen]
