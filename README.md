@@ -1,4 +1,4 @@
-# Campus QA Bot API
+# TUC API
 
 FastAPI untuk Campus QA Bot yang menggunakan model JointBERT untuk intent classification dan slot filling.
 
